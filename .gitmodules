@@ -1,0 +1,9 @@
+[submodule "users-ms"]
+	path = users-ms
+	url = https://github.com/finance-microservices/users-ms.git
+[submodule "wallets-ms"]
+	path = wallets-ms
+	url = https://github.com/finance-microservices/wallets-ms.git
+[submodule "client-gateway"]
+	path = client-gateway
+	url = https://github.com/finance-microservices/client-gateway.git
